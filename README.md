@@ -1,16 +1,88 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Riyachoudhary458/Riyachoudhary458** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <!-- Wave Banner -->
 
-Here are some ideas to get you started:
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=475569&height=200&section=header&text=Riya%20Choudhary&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer&descSize=18&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br/>
+
+  <!-- Typing SVG Animation -->
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Engineering+Scalable+AI+Solutions;Building+Intelligent+Applications;Designing+Enterprise-Grade+Systems;Specializing+in+Machine+Learning+%26+LLMs" alt="Typing Animation" />
+  </a>
+
+<br/><br/>
+
+  <!-- Academic & Location Badges -->
+
+  <p>
+    <img src="https://img.shields.io/badge/Degree-B.Tech%20in%20CSE-0ea5e9?style=for-the-badge&logo=academicons&logoColor=white" alt="Academic Badge" />
+    <img src="https://img.shields.io/badge/Certification-OCI%202025%20AI%20Foundations-0284c7?style=for-the-badge&logo=oracle&logoColor=white" alt="Certification Badge" />
+    <img src="https://img.shields.io/badge/Location-India-0369a1?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
+  </p>
+
+  <!-- CTA Buttons -->
+
+  <p>
+    <a href="https://linkedin.com">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:contact@example.com">
+      <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+## Executive Summary
+
+Enterprise-focused **Software Engineer** specializing in machine learning architectures, deep learning models, and scalable software systems. Passionate about building intelligent, production-ready applications and solving complex problems through modern AI and software engineering practices.
+
+---
+
+## Technical Skillset
+
+| Domain                 | Technologies & Tools                                         |
+| :--------------------- | :----------------------------------------------------------- |
+| **Languages**          | `Python` `C++` `SQL` `Bash`                                  |
+| **AI / ML Frameworks** | `PyTorch` `TensorFlow` `Scikit-Learn` `OpenCV`               |
+| **LLMs & GenAI**       | `LangChain` `LlamaIndex` `Hugging Face` `Transformers` `RAG` |
+| **Cloud & DevOps**     | `Oracle Cloud Infrastructure (OCI)` `Docker` `Git` `CI/CD`   |
+| **Databases**          | `PostgreSQL` `Vector DBs (Chroma, Pinecone)` `Redis`         |
+
+---
+
+## Featured Projects
+
+<details>
+<summary><b>🤖 AI & Machine Learning Projects</b></summary>
+<br/>
+
+> Building intelligent applications using machine learning, deep learning, and modern AI technologies.
+
+* **Focus:** Machine learning models, deep learning architectures, and AI-powered applications.
+* **Technologies:** Python, PyTorch, TensorFlow, Scikit-Learn, OpenCV.
+* **Areas:** NLP, Computer Vision, Predictive Analytics, and Generative AI.
+
+</details>
+
+<details>
+<summary><b>🚀 Generative AI & LLM Applications</b></summary>
+<br/>
+
+> Developing practical applications powered by large language models and retrieval-augmented generation.
+
+* **Focus:** LLM applications, RAG pipelines, AI agents, and intelligent automation.
+* **Technologies:** LangChain, LlamaIndex, Hugging Face, Transformers.
+* **Areas:** RAG Systems, AI Agents, Prompt Engineering, and LLM Orchestration.
+
+</details>
+
+---
+
+<div align="center">
+  <sub>Engineered with precision. Driven by Artificial Intelligence.</sub>
+</div>
